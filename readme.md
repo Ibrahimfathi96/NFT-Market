@@ -2,7 +2,7 @@
 
 ---
 
-## NFT_MarketPlace_Youtube_Course
+## NFT_MarketPlace
 
 ###### This is my application applying on React native course is store for NFTs you can browse, this application contains three pages.
 
