@@ -18,7 +18,6 @@
 
 ###
 
-<p align="left">https://drive.google.com/drive/folders/1N1aTZzXH_yzThQiShFPYA1gb-EYtXoLO?usp=drive_link</p>
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="margin: 10px;">
     <img src="./Photos/1.jpg" alt="Image 1" width="200">
