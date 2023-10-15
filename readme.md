@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About The Application:</h2>
+<h3 align="left">About The Application:</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Photos Of the App</h2>
+<h3 align="left">Photos Of the App</h3>
 
 ###
 
