@@ -73,10 +73,6 @@
 
 ###
 
-#### Project Video Link:
-
-https://drive.google.com/file/d/1J0f1URxRIN01wMmvp90sKBvSBIbfRwYn/view?usp=sharing
-
 #### install all dependencies
 
 ```js
